@@ -7,12 +7,6 @@
 - 🚀 Eager to leverage data to help organizations make informed decisions that positively impact communities.<br/>
 - 📚 Committed to continuous learning and exploring new technologies in the data analytics and data science fields.<br/>
 
-
----
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=SatAlison&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ---
 ### 🧰 Languages and Tools
 
@@ -25,6 +19,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power--BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) 
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 ---
 
